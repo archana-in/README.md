@@ -45,19 +45,16 @@ With over 28 years of experience in project management and software development 
    - Created and maintained an account page in the SharePoint site for centralized information management.
    - Utilized tools such as MS Excel, SharePoint, Oracle Primavera Portfolio Management System (OPPM), PlanView, and ServiceNow (SNOW).
   5. **EMEA Monthly Release (2013-2015):**
-
--   Managed comprehensive end-to-end maintenance tickets for EMEA Monthly Releases across multiple countries during the period 2013-2015.
--   Utilized tools such as SNOW, OPPM, Planview, and Excel to streamline and oversee the release process.
+	  - Managed comprehensive end-to-end maintenance tickets for EMEA Monthly Releases across multiple countries during the period 2013-2015.
+	   - Utilized tools such as SNOW, OPPM, Planview, and Excel to streamline and oversee the release process.
 
 ### Emerio Pte Ltd | Singapore, Singapore
 #### Project Manager (Oct 2011 - Apr 2013)
 Managed various projects and facilitated the seamless execution of maintenance tickets and release management for the EMEA region.
 1.  **Belgium Divestiture (2012-2013):**
-    
     -   Successfully handled a complex divestiture project for Belgium, ensuring timely completion and staying under budget.
     -   Employed tools including NWO, Resolve IT, Excel, and MS Presentation to navigate and execute the divestiture process efficiently.
-2.  **EMEA Banking RM (2011-2012):**
-    
+2.  **EMEA Banking RM (2011-2012):**    
     -   Acted as the Country Relationship Manager for Banking in the EMEA region from 2011 to 2012.
     -   Managed various aspects, including projects, maintenance tickets, incidents, and releases for the country.
     -   Leveraged tools such as NWO, Resolve IT, Excel, and MS Presentation to effectively oversee and coordinate banking-related activities.
@@ -66,11 +63,9 @@ Managed various projects and facilitated the seamless execution of maintenance t
 #### Delivery Project Manager (Jul 2011 - Sep 2011)
 Led development and maintenance projects for banking applications, focusing on enhancing client satisfaction through timely and quality deliveries.
 1.  **Development of iPad-Friendly Screens for Sales Preparer:**
-    
     -   Executed a fixed-price project with stringent timelines.
     -   Successfully delivered an application featuring seventy screens tailored for sales preparers, facilitating the efficient processing of client loan applications.
 2.  **Application Support for PLCE Loan Processing System:**
-    
     -   Managed resources dedicated to enhancement and production support projects on a Time and Material (T&M) basis.
     -   Ensured the successful execution of support activities within specified Service Level Agreements (SLA).
     -   Utilized a range of tools including Windows XP, Java, scripts, XML, HTML, Oracle, Eclipse, Weblogic, Toad, Putty, MS Project, MS Excel, and MS Word to enhance and support the loan processing system and associated batches.
