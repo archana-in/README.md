@@ -1,6 +1,4 @@
 # Archana Sharma
-<p align="center">  <img src="https://github.com/archana-in/README.md/assets/96885230/7c9e5c1e-32b9-448b-b6ef-ad568bf392f2" width="300" height="300" alt="Profile Photo">  
-</p>
 
 ## About Me
 With over 28 years of experience in project management and software development within the banking, financial services, and telecommunications sectors, I have honed my skills in leading diverse teams to achieve project deliverables efficiently. My expertise spans across Agile and DevOps methodologies, Big Data project management, and technical leadership, with a strong background in banking application projects.
