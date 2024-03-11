@@ -1,6 +1,5 @@
-# Archana Sharma
+## Archana Sharma
 
-## About Me
 With over 28 years of experience in project management and software development within the banking, financial services, and telecommunications sectors, I have honed my skills in leading diverse teams to achieve project deliverables efficiently. My expertise spans across Agile and DevOps methodologies, Big Data project management, and technical leadership, with a strong background in banking application projects.
 
 ## Contact Information
