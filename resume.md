@@ -1,353 +1,116 @@
 
 ## Archana Sharma
 
-  
-
-With over 28 years of experience in project management and software development within the banking, financial services, and telecommunications sectors, I have honed my skills in leading diverse teams to achieve project deliverables efficiently. My expertise spans across Agile and DevOps methodologies, Big Data project management, and technical leadership, with a strong background in banking application and telecom embedded projects.
-
-  
+Strategic, innovation-driven technology leader with over two decades of experience delivering complex, high-impact technology initiatives across banking, financial services, and telecommunications sectors. Known for driving digital transformation, aligning IT strategy with business goals, and building high-performing, cross-functional teams that consistently deliver value.
+Proven track record in leading enterprise-scale programs from concept to execution, with deep expertise in technical project management, software development, process optimisation, and operational efficiency. Adept at managing multi-million-dollar portfolios, overseeing Agile and DevOps-driven deliveries, and implementing automation, CI/CD pipelines, and analytics solutions that enhance speed, compliance, and quality.
+While skilled in executive oversight and strategic planning, I also maintain the ability to engage hands-on in coding and solution design when needed—leveraging technical fluency in languages like C, C++, Java, and VBA for prototyping, automation, and systems integration.
+Experienced in leading technology transformations for global organisations such as Citi, Nokia, NEC, and Nortel, with a strong focus on regulatory compliance, infrastructure modernisation, and client-centric innovation. A collaborative and data-driven leader, I bring a strong commitment to execution excellence, measurable outcomes, and long-term value creation.
 
 ## Contact Information
 
-- 📞 ****Phone:**** (+65) 90695988
-
-- 📧 ****Email:**** archbip@hotmail.com
-
-- 📍 ****Location:**** Singapore, Singapore
-
-  
-
-## Experience
-
-  
-
-### Wipro | Singapore, Singapore
-
-#### Project Manager (May 2013 - Present)
-
-1. ****Technical Project Management for Trust Projects (Sep 2023 - Present):****
-
-- Currently serving as a Technical Project Manager for Citi Trust projects, focusing on End-to-End delivery globally in alignment with the release calendar.
-
-- Undertaking responsibilities in the finance COE, overseeing portfolio finance by monitoring and controlling allocation versus budgeted costs.
-
-- Utilizing tools such as JIRA, MS Excel (including Excel macros), Confluence, Project Tracking System, CUBE reports, Cloud platform and MS Outlook.
-
-  
-
-2. ****PMO for BigData (Sep 2019 - Sep 2023):****
-
-- Managed BigData projects for a banking client, ensuring End-to-End Delivery for ASPAC and EMEA countries in an Agile Environment.
-
-- Successfully delivered major features, including Data Management Platform, Adobe Audience Manager integration with banking applications, automation of compliance reports, AI/ML models, and integration of voice to text transcripts with the system.
-
-- Responsibilities involve monitoring and controlling scope, time, and cost of projects, delivering as per release calendars.
-
-- Leveraged tools such as Confluence, JIRA, MS Excel/Access, SharePoint, Collaborate, and PTS (Project Tracking System).
-
-  
-
-3. ****DPIM Account (Sep 2018 - Sep 2019):****
-
-- Streamlined Agile development processes in a DevOps environment for continuous testing.
-
-- Established RLM adoption, monitoring, and deployment processes.
-
-- Institutionalized processes for planning, reporting, and communicating work performed under the account.
-
-- Managed skill training for team member's skill enhancement.
-
-- Identified and resolved communication gaps among different application teams and deployment teams.
-
-- Implemented daily, weekly, and monthly reporting to the client, along with managing issue/risk tracker for resolution and mitigation.
-
-- Developed semi-automated reporting for efficient reporting.
-
-- Used tools such as Confluence, JIRA, MS Excel/Access, SharePoint, Collaborate, and ServiceNow (SNOW).
-
-  
-
-4. ****Japan Divestiture (2015-2018):****
-
-- Contributed to the Citi Japan Retail Bank Migration Program.
-
-- Managed end-to-end maintenance projects under Japan Migration following PQA process.
-
-- Handled client requests and ensured end-to-end delivery as per customer expectations.
-
-- Managed a risk register for migration projects and handled account demand reporting for effort utilization in JP bank/cards project.
-
-- Monitored and supported migration rehearsals.
-
-- Internally developed tools using Excel macros for automation of reporting from SharePoint.
-
-- Created and maintained an account page in the SharePoint site for centralized information management.
-
-- Utilized tools such as MS Excel, SharePoint, Oracle Primavera Portfolio Management System (OPPM), PlanView, and ServiceNow (SNOW).
-
-5. ****EMEA Monthly Release (2013-2015):****
-
-- Managed comprehensive end-to-end maintenance tickets for EMEA Monthly Releases across multiple countries during the period 2013-2015.
-
-- Utilized tools such as SNOW, OPPM, Planview, and Excel to streamline and oversee the release process.
-
-  
-
-### Emerio Pte Ltd | Singapore, Singapore
-
-#### Project Manager (Oct 2011 - Apr 2013)
-
-Managed various projects and facilitated the seamless execution of maintenance tickets and release management for the EMEA region.
-
-1.  ****Belgium Divestiture (2012-2013):****
-
-- Successfully handled a complex divestiture project for Belgium, ensuring timely completion and staying under budget.
-
-- Employed tools including Service now, Resolve IT, Excel, and MS Presentation to navigate and execute the divestiture process efficiently.
-
-2.  ****EMEA Banking RM (2011-2012):****
-
-- Acted as the Country Relationship Manager for Banking in the EMEA region from 2011 to 2012.
-
-- Managed various aspects, including projects, maintenance tickets, incidents, and releases for the country.
-
-- Leveraged tools such as Service Now, Resolve IT, Excel, and MS Presentation to effectively oversee and coordinate banking-related activities.
-
-  
-
-### Mphasis Pte Ltd | Singapore, Singapore
-
-#### Delivery Project Manager (Jul 2011 - Sep 2011)
-
-Led development and maintenance projects for banking applications, focusing on enhancing client satisfaction through timely and quality deliveries.
-
-1.  ****Development of iPad-Friendly Screens for Sales Preparer:****
-
-- Executed a fixed-price project with stringent timelines.
-
-- Successfully delivered an application featuring seventy screens tailored for sales preparers, facilitating the efficient processing of client loan applications.
-
-2.  ****Application Support for PLCE Loan Processing System:****
-
-- Managed resources dedicated to enhancement and production support projects on a Time and Material (T&M) basis.
-
-- Ensured the successful execution of support activities within specified Service Level Agreements (SLA).
-
-- Utilized a range of tools including Windows XP, Java, scripts, XML, HTML, Oracle, Eclipse, Weblogic, Toad, Putty, MS Project, MS Excel, and MS Word to enhance and support the loan processing system and associated batches.
-
-  
-
-### Mphasis Pte Ltd | Uttar Pradesh, India
-
-#### Delivery Project Manager (Sep 2006 - Jul 2011)
-
-Joined Mphasis as a Process Manager and progressed to the role of Delivery Project Manager. As a Process Manager, I ensured adherence to quality and project maturity index within defined organizational limits for assigned accounts. Initiated improvement initiatives using DMAIC methods and applied Six Sigma tools for process enhancement.
-
-  
-
-Contributed to defining processes as per CMMI V1.3 for development projects at level 5 and implemented these processes in accounts. Played a crucial role as an internal auditor, auditing projects across the organization. Conducted client satisfaction surveys and analyzed responses for continuous improvement.
-
-  
-
-Handled three managed accounts in Noida location, including:
-
-1. ****Westpac Bank Australia Account:****
-
-- Engaged in long-term production support, enhancements, and application/batch monitoring for Westpac Bank.
-
-- Monitored and controlled metrics of quarterly releases, tickets, and application uptime/downtime.
-
-- Collaborated with the delivery manager to meet account quality objectives and implemented improvement initiatives for cost benefits.
-
-  
-
-2. ****Employee Training Portal Development Project:****
-
-- Developed a training portal for the government with strict timelines and compliance objectives.
-
-- As a process consultant, ensured understanding of client expectations and facilitated quality delivery.
-
-  
-
-3. ****HP Tool Customization, Deployment, and Support:****
-
-- Customized HP BTO tool for different clients on a Time and Material (T&M) basis.
-
-- Assisted clients (ESSAR and Reliance) in improving business processes through tool deployment and customization.
-
-- Ensured timely onboarding/offboarding of support teams and managed P&L reporting.
-
-  
-
-Additionally, worked on various initiatives, including the deployment of earned value analysis, staff training on quality management systems and tools, training on QMS, MS Project, Presage, and software estimation tools. Conducted training for front-line managers as per HR guidelines and developed skill matrices for staff training plans and skill gap analysis.
-
-  
-
-Utilized tools such as Windows XP, Unix, Java, scripts, XML, HTML, Oracle, Eclipse, Weblogic, Oracle Tode, PuTTY, MS Project, MS Excel, MS Word, HP BTO, and Presage.
-
-  
-
-### Flextronics Software Systems | Haryana, India
-
-#### Engineering Project Manager (Aug 2001 - Sep 2006)
-
-Joined FSS as a technical leader, later promoted to Engineering Project Manager. Worked on various projects, including:
-
-  
-
-1. ****Nokia PCU - Integration Testing and Automatic Testing Tool Development:****
-
-- Engaged in a long-term collaboration with Nokia to deliver PCU software for the Nokia GSM network.
-
-- Ensured timely delivery of software and enhancements as per client requests.
-
-- Headed the integration testing team, ensuring high-quality releases.
-
-- Initiated automated testing for regression testing, resulting in significant time savings.
-
-  
-
-2. ****Nokia RNC - Testing and Automatic Testing Tool Development:****
-
-- Collaborated with Nokia for the long-term delivery of RNC software for the Nokia 3G network.
-
-- Managed L1/L2 signaling enhancements and their successful delivery.
-
-- Designed and developed an automation tool used by the testing team, leading to cost savings and quality improvement.
-
-- Deployed in Nokia Espoo for further development of the testing tool.
-
-  
-
-3. ****SMC Nortel - Development and Testing Management:****
-
-- Developed and delivered an application to manage nodes in the network for Nortel.
-
-- Defined testing strategy, planned releases, and introduced automated testing using Silk Test tool for enhanced quality.
-
-  
-
-4. ****NEC HSS - Functional and Load Testing Module Development:****
-
-- Supported the team in delivering a high-quality 4G component (HSS) needed by NEC Japan.
-
-- Designed and developed a testing tool for functional testing, later upgraded for load testing.
-
-- Received positive feedback from the client for delivering a product exceeding expectations.
-
-  
-
-5. ****Hughes Softswitch Development and Release Management:****
-
-- Managed minor/major enhancements and packaging of the Hughes Softswitch product for different clients.
-
-- Developed a tool for automated packaging as per configuration settings.
-
-  
-
-6. ****Hughes MGC Development and Release Management:****
-
-- Contributed to the initial development of the Hughes Softswitch, focusing on the ISUP (SS7) module of MGC and interface designing of MGCP, SIP, and Megaco.
-
-  
-
-Utilized technologies and tools such as Nokia RNC, Nokia PCU, Hughes VoIP/C, Unix, XML, TTCN, Oracle, Clearcase, Visual SourceSafe, defect tracking tools, K12 testing tools, IP Netfusion, code coverage tools, MS Project, MS Excel, and MS Word.
-
-  
-
-### Daewoo Telecom | Haryana, India
-
-#### Technical Manager (Oct 1998-Aug 2001)
-
-Joined Daewoo Telecom as a Senior Engineer and contributed to the following projects:
-
-  
-
-1. ****ISDN Supplementary Service Development:****
-
-- Led a team of five developers in delivering multiple supplementary services for Daewoo's ISDN switches.
-
-- Services included CUG (Closed User Group), REV (Reversed Charging), CLIP/R (Calling Line Identification Presentation/Restriction), and COLP/R (Called Line Identification Presentation/Restriction) based on ITU standards.
-
-  
-
-2. ****TCAP/SCCP Layer Porting:****
-
-- Led a team of three developers in porting the TCAP (Transaction Capabilities Application Part) and SCCP (Signalling Connection Control Part) layer of Daewoo switch from ANSI to ETSI standards.
-
-Utilized technologies such as Unix, Windows, C, MS Word, MS Project, VSS, Clearcase, and worked on ISDN switches and ISDN phones.
-
-### Indian Telephone Industries Ltd | Uttar Pradesh, India
-
-#### Assistant Manager (Jan 1994 - Oct 1998)
-
-Joined the organization as a trainee and swiftly rose to the position of Assistant Manager. Later, selected and deployed to Alcatel, Gurgaon, for a two-year assignment focused on enhancing the call processing software of OCB 283. Worked on the following projects:
-
-  
-
-1. ****OCB 283 - Call Processing Software Enhancement:****
-
-- Successfully implemented enhancements for six change requests, contributing to the overall improvement of OCB 283 call processing software.
-
-  
-
-2. ****E10B Call Processing Software Enhancement:****
-
-- Developed a technical process to modify E10B call processing software, introducing changes in ringing tone modulation to distinguish local and distant calls for the E10B exchange.
-
-- This modification laid the foundation for subsequent enhancements in the E10B exchange.
-
-  
-
-3. ****EPABX Development:****
-
-- Designed and deployed an outgoing and subscriber management module for the ITI EPABX, utilizing the subscriber rack of the E10B exchange.
-
-  
-
-Worked extensively with technologies such as OCB 283, E10B, E10B/Macro MR, C, and Microprocessor assembly language.
-
-  
-
-  
+  - Mobile Number: +65 90695988 | Email ID:  archbip@hotmail.com 
+  - Residential Status (Singapore): On Short Term Visit Pass
 
 ## Education
 
-  
-
-****Master of Science (M.S) in Software Systems****
-
-- The Birla Institute of Technology & Science Pilani, India (August 2001)
-
-****Bachelor of Engineering (B.E.) in Computer Technology****
-
-- MANIT Bhopal / Barkatullah University, India (August 1993)
-
-  
+  - Master of Science(M.S.) in Software Systems(1999-2001): Birla Institute of Technology And Science(BITS), Pilani, India
+  - Bachelor of Engineering(B.E.) in Computer Technology(1989-1993): Maulana Azad National Institute of Technology(MANIT), Bhopal, India
 
 ## Certifications
-
-- ****PMP Certified**** - Project Management Institute
-
-- ****AZ 900**** - Azure Fundamentals
-
-  
-
-## Skills
-
-- ****Languages & Tools:**** JIRA, Confluence, MS Excel, SharePoint, ServiceNow, Oracle Primavera, PlanView, Agile methodologies, DevOps practices, Azure Cloud.
-
-- ****Technical Skills:**** Big Data, AI/ML integration, Software Development, Project Management, Agile & Scrum methodologies, Cloud , Gen AI.
-
-- ****Soft Skills:**** Leadership, Communication, Problem-Solving, Team Management, Strategic Planning.
-
-  
+  - PMP Certified - Project Management Institute
+  - AZ 900 - Azure Fundamentals (Cloud Computing)
+  - Pursuing Chief Technology Officer Programme from NUS.
 
 ## Additional Training
+  - Google Gen AI fundamentals, Agile methodologies and Agentic AI
 
-- Google Gen AI fundamentals, Agile methodologies
+## Experience
 
+### Wipro | Singapore, Singapore
+
+#### Project Manager (May 2013 - July 2025)
+
+- Technical Project Management: Successfully led global end-to-end project deliveries in private banking, BigData, and retail banking domains. Managed scope, time, and cost, ensuring alignment with release calendars and stakeholder expectations.
+Agile & SCRUM Leadership: Spearheaded Agile project execution, acted as SCRUM Master, and streamlined Agile and DevOps practices to support continuous integration, testing, and deployment.
+- Financial Oversight: Oversaw project budgets, performed cost control and allocation monitoring, and led portfolio finance functions with detailed tracking and reporting.
+- Data & Automation Initiatives: Delivered high-impact features such as data management platforms, AI/ML integrations, compliance report automation, and marketing platform integrations (e.g., Adobe Audience Manager). Developed Excel macro tools and semi-automated reporting systems to improve efficiency.
+- Risk & Release Management: Managed risk registers, issue/risk trackers, and coordinated complex release cycles across geographies (EMEA, ASPAC). Supported major retail bank migration and maintenance programs.
+- Collaboration & Communication: Established structured reporting and communication processes between technical, deployment, and business teams. Managed client reporting at daily, weekly, and monthly levels.
+
+### Emerio Pte Ltd | Singapore, Singapore
+#### Project Manager (Oct 2011 - Apr 2013)
+
+- Project Management: Managed EMEA region projects, maintenance tickets, and release cycles, including a complex divestiture delivered on time and within budget. 
+- Market Oversight: Acted as Country Relationship Manager for Banking, handling projects, incidents, and enhancements as per country’s requirements.
+
+### Mphasis Pte Ltd | Singapore, Singapore
+#### Delivery Project Manager (Jul 2011 - Sep 2011)
+
+- Development and Support Lead for Banking Applications: Led development and support projects for banking applications, emphasising timely, high-quality deliveries to enhance client satisfaction. Delivered a fixed-price iPad-friendly application with 70+ screens for loan processing and managed T&M-based support and enhancement work, ensuring SLA compliance.
+
+### Mphasis Pte Ltd | Uttar Pradesh, India
+#### Delivery Project Manager (Sep 2006 - Jul 2011)
+
+- Project & Delivery Management: Progressed from Process Manager to Delivery Project Manager, managing end-to-end delivery across multiple client accounts. Led production support and enhancement projects, including long-term engagements such as West pac Bank and HP tool customisation for clients like ESSAR and Reliance. Oversaw Time & Material (T&M) based project delivery with a strong focus on quality, timelines, and client satisfaction.
+- Quality & Process Management: Applied Six Sigma (DMAIC) and CMMI Level 5 frameworks to drive process improvements and elevate project maturity levels. Conducted internal audits and client satisfaction surveys to identify and implement continuous improvement initiatives.
+- Compliance & Training: Developed and delivered an employee training portal under stringent compliance requirements. Led training programs on Quality Management Systems (QMS), MS Project, estimation tools, and Presage. Facilitated staff development through skill gap analysis and the creation of skill matrices.
+- Performance & Financial Management: Deployed Earned Value Analysis (EVA) for monitoring project performance. Supported P&L tracking and reporting, ensuring cost-effective project execution.
+
+### Flextronics Software Systems | Haryana, India
+#### Engineering Project Manager (Aug 2001 - Sep 2006)
+
+- Project & Delivery Management: Progressed from Technical Leader to Engineering Project Manager, delivering end-to-end telecom software solutions for global clients including Nokia, Nortel, NEC, and Hughes. Managed development and release cycles for products like Hughes Softswitch and Media Gateway Controller (MGC).
+- System Integration & Testing: Led integration and testing efforts for Nokia’s GSM (PCU) and 3G (RNC) networks, ensuring high-quality software releases. Designed and implemented automated testing tools to streamline regression testing and improve delivery timelines.
+- Automation & Tool Development: Developed automation tools for testing and packaging, resulting in increased efficiency and cost savings. Implemented Silk Test automation for Nortel’s Service Management Center and designed custom testing tools for NEC’s HSS, including load testing capabilities.
+- Protocol & Network Expertise: Managed projects involving telecom protocols such as ISUP (SS7), MGCP, SIP, and Megaco. Contributed to the design and implementation of signaling and interface modules across various network components.
   
+### Daewoo Telecom | Haryana, India
+#### Technical Manager (Oct 1998-Aug 2001)
+
+- Team Leadership & Project Execution: Led development teams as a Senior Engineer, managing the delivery of telecom solutions for ISDN switches. Coordinated efforts across teams to meet technical and delivery goals.
+- Telecom Protocol Development: Delivered multiple ISDN supplementary services aligned with ITU standards, including CUG, REV, CLIP/R, and COLP/R. Ensured high-quality implementations for enhanced switch capabilities.
+- Standards Compliance & Interoperability: Successfully led the porting of TCAP and SCCP layers from ANSI to ETSI standards. Improved system interoperability and compliance with global telecom protocols.
+
+### Indian Telephone Industries Ltd | Uttar Pradesh, India
+
+- Career Progression & Project Ownership: Advanced from trainee to Assistant Manager, demonstrating strong technical and leadership capabilities. Deployed to Alcatel for a critical two-year assignment focused on telecom software enhancement.
+- Telecom Software Development: Enhanced OCB 283 call processing software through successful implementation of multiple change requests, improving overall system performance. Developed technical modifications in E10B call processing to distinguish between local and distant call ring tones, laying the groundwork for future upgrades.
+- System Design & Integration: Designed and implemented an outgoing and subscriber management module for ITI EPABX, leveraging the existing E10B exchange infrastructure. Ensured seamless integration and improved subscriber management functionality.
+  
+
+
+## Skills:
+
+### Enterprise Tools & Technology Management	
+ - MS Project, Excel (VBA/macros), Word, PowerPoint, Outlook, Teams, Notes, SharePoint 
+ - JIRA (including low-code customisations), Confluence, ServiceNow, Microsoft Copilot 
+ - ClearCase, Visual SourceSafe, defect tracking tools, IP Netfusion, K12 testing tool, code coverage tools 
+ - Project tracking tools for performance metrics, earned value analysis, and financial reporting
+### Software Development & Engineering
+ - Programming: C, C++, Java, VBA, HTML, XML, TTCN, Oracle, Unix Shell Scripting, Assembly 
+ - Platforms: OCB 283, E10B/Macro MR, Nokia RNC/PCU, Hughes VoIP, ISDN switches and phone software 
+ - Tools: Eclipse, low-code environments, automation/testing frameworks
+### Project & Delivery Leadership
+ - Led enterprise-scale projects from initiation to deployment 
+ - SDLC, Agile, SCRUM, DevOps methodologies 
+ - Scope, time, and cost management; SLA and release governance 
+ - CI/CD pipeline implementation
+### Financial & Portfolio Oversight
+ - P&L ownership and cost control across multi-client portfolios 
+ - Advanced Excel-based automation for portfolio and financial reporting 
+ - PowerPoint integration for executive dashboards
+### Team Development & People Management
+ - Built and led cross-functional and technical teams 
+ - Conducted mentorship and training in Six Sigma, CMMI, QMS, ISO, and estimation tools 
+ - Managed team skill development and gap analysis
+### Process & Quality Governance
+ - Implemented Six Sigma (DMAIC), CMMI Level 5, and QMS standards 
+ - Risk and issue tracking, earned value analysis 
+ - Auditing, compliance, and automated reporting for governance
+### Stakeholder Communication & Documentation
+ - Executive-level reporting and stakeholder engagement 
+ - Client satisfaction tracking and documentation governance 
+ - Skill gap analysis and structured training roadmaps
 
 ---
 
